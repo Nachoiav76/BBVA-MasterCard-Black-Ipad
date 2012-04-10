@@ -1,0 +1,7 @@
+//
+//  PhoneGap.xcconfig
+//  bbvablack_movil
+//
+
+// Override this to use your project specific PHONEGAPLIB
+PHONEGAPLIB = /Users/nacho/Documents/DW_NAF/PhoneGapLib
